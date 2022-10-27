@@ -1,0 +1,13 @@
+.canvas{
+    background-color: #000;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    .point{
+        height: 5px;
+        width: 5px;
+        border-radius: 50%;
+        position: absolute;
+        background-color: #fff;
+    }
+}
